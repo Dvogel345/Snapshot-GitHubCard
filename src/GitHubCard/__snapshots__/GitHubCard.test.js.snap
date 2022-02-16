@@ -1,0 +1,50 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a snapshot 1`] = `
+<div
+  className="App"
+>
+  <div
+    className="card"
+  >
+    <div
+      className="card"
+      style={
+        Object {
+          "width": "18rem",
+        }
+      }
+    >
+      <img
+        alt="Github profile avatar"
+        className="card-img-top"
+        height="200"
+        src=""
+        width="200"
+      />
+      <div
+        className="card-body"
+      >
+        <div
+          className="card-title h5"
+        >
+          
+        </div>
+        <p
+          className="card-text"
+        >
+          
+          <br />
+          <a
+            href=""
+          >
+            <button>
+              Link to GitHub profile
+            </button>
+          </a>
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+`;
